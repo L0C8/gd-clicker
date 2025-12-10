@@ -1,3 +1,7 @@
-[gd_resource type="Theme" format=3 uid="uid://bsktu8hdncp6h"]
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://bsktu8hdncp6h"]
+
+[ext_resource type="FontFile" uid="uid://eyd52h5lb42f" path="res://assets/ds-bios.ttf" id="1"]
 
 [resource]
+default_font = ExtResource("1")
+default_font_size = 24
